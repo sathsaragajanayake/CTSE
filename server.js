@@ -12,7 +12,7 @@ const HOST = '0.0.0.0';
 
 const app = express();
 app.get('/', (req, res) => {
-    res.send('Hello I am IT19141848 G.P.Sanduni Sathsara, Deployed in Kubernets.');
+    res.send('Hello I am IT19141848 G.P.Sanduni Sathsara, Deployed in Kubernets');
   });
   
 
